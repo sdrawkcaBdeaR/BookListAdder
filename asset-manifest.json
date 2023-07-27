@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bookListAdder/static/css/main.53bcab0a.css",
+    "main.js": "/bookListAdder/static/js/main.2620c9ad.js",
+    "index.html": "/bookListAdder/index.html",
+    "main.53bcab0a.css.map": "/bookListAdder/static/css/main.53bcab0a.css.map",
+    "main.2620c9ad.js.map": "/bookListAdder/static/js/main.2620c9ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53bcab0a.css",
+    "static/js/main.2620c9ad.js"
+  ]
+}
